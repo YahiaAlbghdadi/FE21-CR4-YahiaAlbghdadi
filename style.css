@@ -1,0 +1,39 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.conStyle {
+  background: #25252c;
+}
+
+.colorStyle {
+  background-color: #3a3939;
+}
+
+.coverDiv {
+  background: #1d1c1c;
+  color: rgba(255, 255, 255, 0.719);
+  padding: 20px;
+}
+
+.sortStyle {
+  background-image: none;
+}
+
+.likeButton {
+  width: 40px;
+}
+
+.likeCircle {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.movieImg {
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.719);
+}
+/*# sourceMappingURL=style.css.map */

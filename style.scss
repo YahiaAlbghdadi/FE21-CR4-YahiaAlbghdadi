@@ -1,0 +1,41 @@
+// content style -
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.conStyle {
+    background: rgb(37, 37, 44);
+}
+
+.colorStyle {
+    background-color: rgb(58, 57, 57);
+}
+
+.coverDiv {
+    background: rgb(29, 28, 28);
+    color: rgba(255, 255, 255, 0.719);
+    padding: 20px;
+}
+
+.sortStyle {
+    background-image: none;
+}
+
+// content style 
+// card style -
+.likeButton {
+    width: 40px;
+}
+
+.likeCircle {
+    width: fit-content;
+}
+
+.movieImg {
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid rgba(255, 255, 255, 0.719)
+}
+
+// card style
